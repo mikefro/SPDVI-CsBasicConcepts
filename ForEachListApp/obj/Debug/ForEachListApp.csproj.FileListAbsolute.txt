@@ -1,0 +1,7 @@
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ForEachListApp\obj\Debug\ForEachListApp.csprojAssemblyReference.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ForEachListApp\obj\Debug\ForEachListApp.csproj.CoreCompileInputs.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ForEachListApp\bin\Debug\ForEachListApp.exe.config
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ForEachListApp\bin\Debug\ForEachListApp.exe
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ForEachListApp\bin\Debug\ForEachListApp.pdb
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ForEachListApp\obj\Debug\ForEachListApp.exe
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ForEachListApp\obj\Debug\ForEachListApp.pdb
