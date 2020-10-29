@@ -1,0 +1,10 @@
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\obj\Debug\ToDoListApp.csprojAssemblyReference.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\obj\Debug\ToDoListApp.Form1.resources
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\obj\Debug\ToDoListApp.Properties.Resources.resources
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\obj\Debug\ToDoListApp.csproj.GenerateResource.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\bin\Debug\ToDoListApp.exe.config
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\bin\Debug\ToDoListApp.exe
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\bin\Debug\ToDoListApp.pdb
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\obj\Debug\ToDoListApp.exe
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ToDoListApp\obj\Debug\ToDoListApp.pdb

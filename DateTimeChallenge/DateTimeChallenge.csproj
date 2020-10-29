@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5DAF2DE3-E968-4E4C-95DF-D6FC9E8DC80B}</ProjectGuid>
+    <ProjectGuid>{2BDF52B1-23DF-4EED-BC61-3728347C437E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ForEachListApp</RootNamespace>
-    <AssemblyName>ForEachListApp</AssemblyName>
+    <RootNamespace>DateTimeChallenge</RootNamespace>
+    <AssemblyName>DateTimeChallenge</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PersonModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\.editorconfig">
-      <Link>.editorconfig</Link>
-    </None>
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

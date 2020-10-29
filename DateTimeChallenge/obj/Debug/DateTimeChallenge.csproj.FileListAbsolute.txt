@@ -1,0 +1,7 @@
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\DateTimeChallenge\bin\Debug\DateTimeChallenge.exe.config
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\DateTimeChallenge\bin\Debug\DateTimeChallenge.exe
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\DateTimeChallenge\bin\Debug\DateTimeChallenge.pdb
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\DateTimeChallenge\obj\Debug\DateTimeChallenge.csprojAssemblyReference.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\DateTimeChallenge\obj\Debug\DateTimeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\DateTimeChallenge\obj\Debug\DateTimeChallenge.exe
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\DateTimeChallenge\obj\Debug\DateTimeChallenge.pdb

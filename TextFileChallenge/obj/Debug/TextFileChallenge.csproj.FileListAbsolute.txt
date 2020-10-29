@@ -1,0 +1,10 @@
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\obj\Debug\TextFileChallenge.csprojAssemblyReference.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\obj\Debug\TextFileChallenge.Form1.resources
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\obj\Debug\TextFileChallenge.Properties.Resources.resources
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.GenerateResource.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.CoreCompileInputs.cache
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\bin\Debug\TextFileChallenge.exe.config
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\bin\Debug\TextFileChallenge.exe
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\bin\Debug\TextFileChallenge.pdb
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\obj\Debug\TextFileChallenge.exe
+C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\TextFileChallenge\obj\Debug\TextFileChallenge.pdb

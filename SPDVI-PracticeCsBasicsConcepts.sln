@@ -7,6 +7,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachListApp", "ForEachLi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListModificationChallenge", "C:\Users\MichaelEnglish\source\repos\SPDVI-PracticeCsBasicsConcepts\ListModificationChallengeStarterCode\ListModificationChallenge\ListModificationChallenge.csproj", "{09B30F62-4DF7-481B-AE74-E6E47C34A238}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeChallenge", "DateTimeChallenge\DateTimeChallenge.csproj", "{2BDF52B1-23DF-4EED-BC61-3728347C437E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileChallenge", "TextFileChallenge\TextFileChallenge.csproj", "{7C00D659-D60C-45D6-8079-D176D3E79EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp", "ToDoListApp\ToDoListApp.csproj", "{3A330E49-2872-4949-B533-01EBF0FD057B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{12995EFF-E3AC-474B-8971-F116E5970586}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +32,18 @@ Global
 		{09B30F62-4DF7-481B-AE74-E6E47C34A238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09B30F62-4DF7-481B-AE74-E6E47C34A238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09B30F62-4DF7-481B-AE74-E6E47C34A238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDF52B1-23DF-4EED-BC61-3728347C437E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDF52B1-23DF-4EED-BC61-3728347C437E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDF52B1-23DF-4EED-BC61-3728347C437E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDF52B1-23DF-4EED-BC61-3728347C437E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C00D659-D60C-45D6-8079-D176D3E79EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C00D659-D60C-45D6-8079-D176D3E79EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C00D659-D60C-45D6-8079-D176D3E79EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C00D659-D60C-45D6-8079-D176D3E79EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A330E49-2872-4949-B533-01EBF0FD057B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A330E49-2872-4949-B533-01EBF0FD057B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A330E49-2872-4949-B533-01EBF0FD057B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A330E49-2872-4949-B533-01EBF0FD057B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
